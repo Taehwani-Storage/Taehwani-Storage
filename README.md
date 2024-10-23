@@ -1,8 +1,11 @@
-# KIM TAE HWAN 😄
+# Taehwan's Profile 😄
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehwani-Storage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wiz_th1024)](https://solved.ac/wiz_th1024/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehwani-Storage&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehwani-Storage&layout=compact&theme=cobalt)
+--
 ## Stack
 #### Language
 <img alt="Java" src ="https://img.shields.io/badge/Java-FF3300.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/> <img alt="c" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
