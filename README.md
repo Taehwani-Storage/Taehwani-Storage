@@ -14,7 +14,7 @@
 #### Framework
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="flask" src ="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
 #### IDE
-<img alt="intellijidea" src ="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> <img alt="pycharm" src ="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="visual studio" src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> <img alt="visual studio code"  src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"/>
+<img alt="intellijidea" src ="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> <img alt="pycharm" src ="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/> <img alt="visual studio" src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 
 
 
