@@ -1,7 +1,5 @@
 # Taehwan's Profile 😎
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehwani-Storage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wiz_th1024)](https://solved.ac/wiz_th1024/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehwani-Storage&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehwani-Storage&layout=compact&theme=cobalt)
